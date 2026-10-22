@@ -1,16 +1,19 @@
-## Hi there 👋
+Michael
 
-<!--
-**michaelsiri/michaelsiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm learning to build useful things with code, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+
+- Learning web development
+- Exploring software engineering
+- Building my first projects
+
+Technologies
+
+"HTML" · "CSS" · "JavaScript" · "Git" · "GitHub"
+
+Connect
+
+"GitHub" (https://github.com/michaelsiri)
